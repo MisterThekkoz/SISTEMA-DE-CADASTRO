@@ -5,5 +5,5 @@
 Para rodar  este  progra  na sua  maquina, digite:
 
 ...
-npm install reac
+node app.js
 ...
